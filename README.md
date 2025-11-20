@@ -44,6 +44,7 @@ So by introducing new users, you receive your first network reward.
 From then on, even without personally introducing more people, you receive rewards from new users joining your left and right branches through your sub-groups because you created this network, and without you it would not exist.
 You do not need real time balance to earn rewards. If you register in a small branch, you receive a reward within less than 1 hour. If you register in your larger branch, it is stored on blockchain with no expiration and will be rewarded the moment a user registers in your smaller branch.
 To ensure rewards reach everyone and to maintain balance value stability, there is an income ceiling rule. Each user receives 5 rewards per hour, and the rest overflows to the sub groups. Again, dollars are being paid from top to bottom.
+5 reward per hour means $100 per hour, $2,400 per day, and $72,000 per month.
 When your balance exceeds 100, your income ceiling doubles to 10 bonuses per hour.
 In fact, networkers receive full Reward from the first day, and only after their balance exceeds 100 does 10% of their income get deposited into the SBT account.
 This means you receive your first 100 bonuses in full.
@@ -76,4 +77,4 @@ We also have Smart Academy.
 Users who reach a balance of 100,000 undergo an intensive course and become university level instructors, teaching seven major skills. Graduates receive an international degree after two semesters, approved by prestigious universities worldwide.
 The goal of Smart DeFi DAO is to scientifically develop the network marketing and digital currency industries worldwide, as they represent the next generation of business.
 
-the next generation of business.
+
