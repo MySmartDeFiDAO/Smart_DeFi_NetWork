@@ -22,7 +22,7 @@ Networkers increase the value of SBT every hour. Therefore, to buy SBT, you must
 Bulk purchase of SBT is impossible in order to prevent whales, and only Smart DeFi DAO members have the right to purchase SBT.
 Anyone can register with popular and reputable crypto wallets by paying $100 directly on the Binance blockchain through the Smart DeFi NetWork smart contract. They become SBT owners, Smart Bank shareholders, and partners in all Smart DeFi DAO ecosystem projects.
 Upon registration, users also receive SBT AirDrop.
-The $100 registration fee is distributed among users by the Smart DeFi NetWork smart contract in less than 1 hour:
+Each person pays $100 into the Smart DeFi Network and clicks “Become Owner” to register, after which they are referred to as an Owner. This $100 is then distributed to Owner by the Smart DeFi Network in less than one hour. 
 •	$90 goes to networkers.
 •	$5 is distributed as a gift through the Smart DeFi Gift smart contract to users who have not yet built a network.
 Each person can win 20 times, earning a total of $100, enabling them to participate for free.
@@ -34,7 +34,6 @@ As a result, substantial amounts of dollars are deposited into SBT every hour.
 Have you ever seen a token whose value increases every hour? This has never existed in the world.
 When the SBT fund exceeds $1 million, the buy and sell buttons open, and SBT liquidity will grow exponentially.
 Considering the growth of digital currency in the past 10 years, with a simple calculation we can estimate that SBT can grow by thousands or even millions of percent.
-
 “ SBT is for all members of the Smart DeFi Network, and even someone who registered 1 second ago will share in the benefits of SBT without any prerequisites. “
 
 Our information storage and financial payment system is DeFi, meaning that dollars are not sent to a person or wallet, but are deposited directly into the Smart DeFi NetWork smart contract. The contract without any human access or intervention holds the digital currency, calculates the rewards, and pays them to users after one hour. All transactions are visible on the blockchain. This represents 100% security for users and networkers.
@@ -47,8 +46,7 @@ To ensure rewards reach everyone and to maintain balance value stability, there 
 Again, dollars are being paid from top to bottom.
 5 reward per hour means $100 per hour, $2,400 per day, and $72,000 per month.
 When you bring 2 users to a balance of 100, your earning limit doubles to 10 reward per hour.
-In fact, networkers receive full Reward from the first day, and only after their balance exceeds 100 does 10% of their income get deposited into the SBT account.
-This means you receive your first 100 reward in full.
+In fact, networkers receive full Reward from the first day, and only after their balance exceeds 100 does 10% of their income get deposited into the SBT account. This means you receive your first 100 reward in full.
 Note: This is not a get-rich-quick scheme. You are rewarded based on the network you build. 
 A balance of 1 gives you 1 reward; a balance of 1000 gives you 1000 rewards. Without building a network, there is no network reward everything depends on your activity.
 When the bank's backing exceeds $1 million, you also earn from users buying SBT in the bank.
