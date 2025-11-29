@@ -93,3 +93,13 @@ We also have Smart Academy.
 Users who reach a balance of 100,000 undergo an intensive course and become university level instructors, teaching seven major skills. Graduates receive an international degree after two semesters, approved by prestigious universities worldwide.
 The goal of Smart DeFi DAO is to scientifically develop the network marketing and digital currency industries worldwide, as they represent the next generation of business.
 
+Next projects:
+•	Smart Hotel
+•	Smart Game
+•	Smart Chat
+•	Smart Music
+•	Smart Media
+When you pay $100, you get a subscription to all projects.
+No one outside of Smart DeFi DAO can use the projects.
+So by paying $100 after registering, you become the owner of several products that earn you thousands of dollars without building a network. 
+Don't forget that Smart Bank, Smart Pay, and Smart Game alone will generate thousands of dollars for you without building a network.
