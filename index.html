@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Smart Pro Max</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">Smart Profile</div>
+    <button id="connectBtn" class="primary">Connect Wallet</button>
+  </header>
+
+  <main class="container">
+    <section id="home" class="hero card">
+      <div>
+        <span class="eyebrow">SMART NETWORK</span>
+        <h1>  Smart Profile  </h1>
+        <p>Make Your Smart Profile </p>
+        <button id="heroConnect" class="primary">Connect Wallet</button>
+      </div>
+    </section>
+
+    <section id="checking" class="card hidden">
+      <h2>Processing</h2>
+      <p id="checkingMsg">Wait</p>
+    </section>
+
+    <section id="registerBox" class="card hidden">
+      <span class="eyebrow">REGISTRATION</span>
+      <h2>You Are Not In Smart</h2>
+      <p>
+        
+       To Register, Enter UpLine Wallet Then Approve And Register
+      
+      </p>
+      <label>UpLine </label>
+      <input id="upline" placeholder="0x..." autocomplete="off">
+      <button id="approveBtn" class="secondary" disabled>Approve 10 USDT</button>
+      <button id="registerBtn" class="primary" disabled>Register</button>
+      <div id="registerMsg" class="msg"></div>
+    </section>
+
+    <section id="memberBox" class="card hidden">
+      <span class="eyebrow">MEMBER</span>
+      <h2>You Are Confirmed</h2>
+      <p id="memberWallet"></p>
+      <button id="profileBtn" class="primary">Login To Profile</button>
+    </section>
+
+    <section id="publicBox" class="card">
+      <h2>Smart Page</h2>
+      <p> If You Have a Smart Page, Open It In A Browser.</p>
+      <p class="muted"> /p/your-business</p>
+    </section>
+  </main>
+<script src="/app.bundle.js"></script>
+</body>
+</html>
